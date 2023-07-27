@@ -1,116 +1,403 @@
 figure_list:
 
-  - id: "lange"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
+  - id: "moth1"
+    src: "install/1-moth1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
 
-  - id: "evans"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
+  - id: "moth2"
+    src: "install/1-moth2.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
 
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "moth3"
+    src: "install/1-moth4.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
 
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "turing1"
+    src: "install/2-turing3.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
 
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "turing2"
+    src: "install/2-turing4.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
 
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "turing3"
+    src: "install/2-turing5.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
 
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "odyssey1"
+    src: "install/3-space-odyssey3.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
 
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "odyssey2"
+    src: "install/3-space-odyssey2.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
 
-  - id: "vid-1"
-    poster: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    label: "Video 1"
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "odyssey3"
+    src: "install/3-space-odyssey5.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
 
-  - id: "table-1"
-    src: "tables/evans-works.html"
-    media_type: table
+  - id: "odyssey4"
+    src: "install/3-space-odyssey6.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
 
-  - id: "audio-1"
-    media_id: 336879231
-    media_type: soundcloud
-    label: "Audio 1"
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-    credit: "© J. Paul Getty Trust"
+  - id: "serendipity1"
+    src: "install/4-cybernetic-serendipity1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"    
 
-  - id: "cat-1"
-    src: figures/lange-mother-a.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
+  - id: "cybersyn1"
+    src: "install/5-cybersyn1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"    
 
-  - id: "mother-variants"
-    label: "Figure 1.1"
-    caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-    annotations:
-      - input: radio
-        items:
-        - src: figures/lange-mother-b.jpg
-          label: "Variant #1"
-        - src: figures/lange-mother-c.jpg
-          label: "Variant #2"
+  - id: "cybersyn2"
+    src: "install/5-cybersyn2.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery" 
 
-  - id: "mother-annotations"
-    src: "figures/lange-layers/base.jpg"
-    zoom: true
-    label: "Figure 1.2"
-    caption: "This version of the print from the Library of Congress Prints and Photographs Division is mounted on paper board and includes an original FSA label. Note too the thumb seen in the lower right corner. It is also visible in the Getty‘s print, but Lange’s negative was later retouched to remove the thumb and in later prints, it is only a ghostly shadow."
-    annotations:
-      - input: checkbox
-        items:
-          - src: "figures/lange-layers/original-label.png"
-            selected: true
-          - src: "figures/lange-layers/additional-label.png"
-          - src: "figures/lange-layers/scratches.png"
-          - src: "figures/lange-layers/thumb.png"
-            selected: true
+  - id: "cybersyn3"
+    src: "install/5-cybersyn3.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery" 
 
-  - id: "cat-2"
-    src: figures/evans-fields-family-a.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
+  - id: "cybersyn4"
+    src: "install/5-cybersyn4.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery" 
 
-  - id: "cat-2-b"
-    src: figures/evans-fields-family-b.jpg
-    caption: "Walker Evans, *Sharecropper's Family, Hale County, Alabama / Bud Fields and His Family, Hale County, Alabama / Bud Woods and His Family*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "simcity1"
+    src: "install/6-simcity1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery" 
 
-  - id: "cat-2-c"
-    src: figures/evans-bud-fields.jpg
-    caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "boids1"
+    src: "install/7-boids1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery" 
+
+  - id: "cooper1"
+    src: "install/8-cooper1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery" 
+
+  - id: "cooper2"
+    src: "install/8-cooper2.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery" 
+
+  - id: "cooper3"
+    src: "install/8-cooper4.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery" 
+
+  - id: "bina1"
+    src: "install/9-bina48-2.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery" 
+
+  - id: "bina2"
+    src: "install/9-bina48-3.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"        
+
+  - id: "imagenet1"
+    src: "install/10-imagenet1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "imagenet2"
+    src: "install/10-imagenet2.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "alphago1"
+    src: "install/11-alphago1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "gan1"
+    src: "install/12-gan1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "balenciaga1"
+    src: "install/13-barrat-balenciaga1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "balenciaga2"
+    src: "install/13-barrat-balenciaga2.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "morpheus1"
+    src: "install/14-morpheus-hotel1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "zombie1"
+    src: "install/SP-zombie1.JPEG"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "animation1"
+    src: "install/16-animation1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "oxman1"
+    src: "install/17-oxman1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "oxman2"
+    src: "install/17-oxman2.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "oxman3"
+    src: "install/17-oxman3.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "oxman4"
+    src: "install/17-oxman4.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "smartphone1"
+    src: "install/18-smartphone1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "metahuman1"
+    src: "install/19-metahuman2.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "metahuman2"
+    src: "install/19-metahuman1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "emotions1"
+    src: "install/20-emotion-recognition1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "emotions2"
+    src: "install/20-emotion-recognition3.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "airegan1"
+    src: "install/SP-airegan1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"  
+
+  - id: "airegan2"
+    src: "install/SP-airegan2.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery" 
+
+  - id: "airegan3"
+    src: "install/SP-airegan3.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "airegan4"
+    src: "install/SP-airegan4.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "chung1"
+    src: "install/SP-chung1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "chung2"
+    src: "install/SP-chung2.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "chung3"
+    src: "install/SP-chung4.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "chung4"
+    src: "install/SP-chung14.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "chung5"
+    src: "install/SP-chung18.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "chung6"
+    src: "install/SP-chung20.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "chung7"
+    src: "install/SP-chung21.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "creepers1"
+    src: "install/SP-creepers1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "eaton1"
+    src: "install/SP-eaton1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "eaton2"
+    src: "install/SP-eaton2.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "eaton3"
+    src: "install/SP-eaton3.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "eaton4"
+    src: "install/SP-eaton5.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "eaton5"
+    src: "install/SP-eaton6.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "eaton6"
+    src: "install/SP-eaton7.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "eaton7"
+    src: "install/SP-eaton9.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "frid1"
+    src: "install/SP-frid-jimenez1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "frid2"
+    src: "install/SP-frid-jimenez2.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "frid3"
+    src: "install/SP-frid-jimenez3.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "pennefather1"
+    src: "install/SP-pennefather1.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "pennefather2"
+    src: "install/SP-pennefather3.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"
+
+  - id: "pennefather3"
+    src: "install/SP-pennefather5.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery" 
+
+  - id: "bjarke1"
+    src: "install/11-alphago2.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery" 
+
+  - id: "interactiveintro"
+    src: "install/interactive-intro.jpg"
+    alt: "."
+    caption: "."
+    credit: "Photo: Ian Lefebvre and Jessica Jacobson, Vancouver Art Gallery"     
