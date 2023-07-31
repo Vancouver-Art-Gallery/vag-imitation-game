@@ -44,7 +44,7 @@ Supporting Sponsor:
 ![Nicola Wealth](/_assets/images/nicola.jpg)
 
 AI Youth Programs Sponsor:
-![The Dr. Michael Smith Science Fair Endowment](/_assets/images/msse-logo.jpeg)
+![The Dr. Michael Smith Science Fair Endowment](/_assets/images/msse-logo.jpg)
 
 Additional support from:
 The S.M. Blair Family Foundation
