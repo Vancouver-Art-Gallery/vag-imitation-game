@@ -23,8 +23,8 @@ This interactive encounter with visitor tracking is the result of a collaboratio
 
 Many thanks to that talented team:
 
--   Mary Wilson: Project Manager, UI/UX Designer
--   Shruti Sharma: Project Manager, UX Designer
+-   Mary Wilson -- Project Manager, UI/UX Designer
+-   Shruti Sharma -- Project Manager, UX Designer
 -   Yuri Wu -- Artist / UX Designer
 -   Cindy Shi -- Software Programmer
 -   Min Kyu Choi -- Software Programme
