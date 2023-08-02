@@ -28,7 +28,7 @@ Many thanks to that talented team:
 -   Yuri Wu -- Artist / UX Designer
 -   Cindy Shi -- Software Programmer
 -   Min Kyu Choi -- Software Programme
--   Jason Elliot -- Faculty Advisor
+-   Jason Elliott -- Faculty Advisor
 
 Cindy Shi contributed additional post-production programming support.
 
