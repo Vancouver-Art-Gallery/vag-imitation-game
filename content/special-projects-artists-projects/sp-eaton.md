@@ -10,9 +10,9 @@ object:
 
 Scott Eaton is an American-born artist based in London. As a long-time student of the human figure, Eaton has built a commercial database of human figures---both still and in motion---and has produced an extensive body of photographic and hand-drawn figurative work. He teaches human anatomy and figure drawing for artists, and consults for a variety of video game and animation production houses.
 
-The work in this room addresses one of the oldest subjects of art: the human body. But the tools used for this exploration employ some of the most recent and sophisticated advances in artificial intelligence: neural networks.
+The work that was installed in this room addresses one of the oldest subjects of art: the human body. But the tools used for this exploration employ some of the most recent and sophisticated advances in artificial intelligence: neural networks.
 
-The "Bodies" neural network that produced the human bodies displayed here was designed and trained by the artist with over 25,000 photographs of carefully lit and staged human figures. As neural networks can only recognize and produce the types of images on which they were trained, the "Bodies" network can only "see" the human form.
+The "Bodies" neural network that produced the human bodies featured in Eaton's work was designed and trained by the artist with over 25,000 photographs of carefully lit and staged human figures. As neural networks can only recognize and produce the types of images on which they were trained, the "Bodies" network can only "see" the human form.
 
 Consequently, in its interactions with Eaton, the network can only produce the human body. The network responds to lines drawn by Eaton by attempting to give a fleshy surface and lighting to that form. No matter what image Eaton feeds into the network, the digital output will be a human body that is shaped by the parameters of the input image. Draw a line, get back a body part. Capture fluids in motion, get back fluid bodies in motion.
 

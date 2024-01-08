@@ -18,5 +18,5 @@ The Zombie Formalist can upload artworks to Twitter where the engagement of your
 
 By clicking here, you can join over 1000 fans who engage with the Zombie Formalist on Twitter. Follow the Zombie Formalist and your likes and retweets will teach the AI system what is aesthetically pleasing to you while improving its future compositions!
 
-In conjunction with *The Imitation Game: Visual Culture in the Age of Artificial Intelligence*, the Zombie Formalist has created a series of exclusive, limited edition products for sale. These items are based on the Gallery Store's bestselling merchandise and feature digital compositions that rated highly on Twitter.
+In conjunction with *The Imitation Game: Visual Culture in the Age of Artificial Intelligence*, the Zombie Formalist created a [series](https://shop.vanartgallery.bc.ca/search?type=product&q=zombie+formalist) of exclusive, limited edition products for sale. These items are based on the Gallery Store's bestselling merchandise and feature digital compositions that rated highly on Twitter.
 

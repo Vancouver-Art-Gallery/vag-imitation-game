@@ -30,12 +30,6 @@ After publishing *Urban Dynamics* in 1969, he expanded his work to a global scal
 
 {% accordion ' ## Sidewalk Labs' %}
 
-A "Smart City" uses technology to collect information, make decisions and manage municipal processes intelligently. In contrast to the purely "what if" simulations of Jay Forrester and the video game, *SimCity*, Smart City systems are taking on a growing role in the actual management of many facets of urban life---transportation, power, water, health services, zoning, crime detection, and, most controversially, surveillance. AI and the Internet of Things (IoT)---things not normally considered to be computers connected to the internet---combine to create a vision of a city as a linked information system whose management can be analyzed and optimized by AI algorithms. Among the many examples of Smart City initiatives, Sidewalk Toronto, which launched in 2015 (and abruptly ended in 2020), was notable for the number of commercial spin-offs it generated. The video displayed here shows glimpses of three such spin-offs:
-
-**Pebble:** real time parking coordination and management
-
-**Delve:** generative design and analysis of building developments
-
-**Mesa:** smart optimization of energy usage within building
+A "Smart City" uses technology to collect information, make decisions and manage municipal processes intelligently. In contrast to the purely "what if" simulations of Jay Forrester and the video game, *SimCity*, Smart City systems are taking on a growing role in the actual management of many facets of urban life---transportation, power, water, health services, zoning, crime detection, and, most controversially, surveillance. AI and the Internet of Things (IoT)---things not normally considered to be computers connected to the internet---combine to create a vision of a city as a linked information system whose management can be analyzed and optimized by AI algorithms. Among the many examples of Smart City initiatives, Sidewalk Toronto, which launched in 2015 (and abruptly ended in 2020), was notable for the number of commercial spin-offs it generated.
 
 {% endaccordion %}

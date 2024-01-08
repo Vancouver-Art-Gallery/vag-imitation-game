@@ -29,7 +29,7 @@ The annotated images used in the video slideshow are a selection of drawings, di
 
 {% accordion ' ## Designing Freedom' %}
 
-In this excerpt from Stafford Beer's Massey Lectures for CBC Radio (1973), Beer concludes the six-part series with a plea to recognize the fundamental role of new technologies in designing new models of freedom; and the threat to that freedom if those technologies are mishandled. This conclusion to the lecture series was hastily revised to acknowledge the ongoing coup in Chile. Using the language of cybernetics theory, Beer cites the actions of the Pinochet junta as "the output of a system designed to curb liberty, my message is that we must redesign that system to produce freedom as an output."
+In Stafford Beer's Massey Lectures for CBC Radio (1973), he concludes the six-part series with a plea to recognize the fundamental role of new technologies in designing new models of freedom; and the threat to that freedom if those technologies are mishandled. This conclusion to the lecture series was hastily revised to acknowledge the ongoing coup in Chile. Using the language of cybernetics theory, Beer cites the actions of the Pinochet junta as "the output of a system designed to curb liberty, my message is that we must redesign that system to produce freedom as an output."
 
 {% endaccordion %}
 
@@ -37,8 +37,7 @@ In this excerpt from Stafford Beer's Massey Lectures for CBC Radio (1973), Beer 
 
 Daniel F. Galouye's *Simulacron-3* tells the story of a computer-generated city simulation that was created to fill the needs of a marketing research company. The simulation is so realistic that the city's inhabitants don't realize they are living in a virtual world.
 
-Frederick Pohl's short story, "The Tunnel under the World," is an early example of a simulated world built by a corporate entity that uses the town's inhabitants---recently annihilated in an industrial accident and
-recreated as minuscule robots---to test hard sell marketing strategies.
+Frederick Pohl's short story, "The Tunnel under the World," is an early example of a simulated world built by a corporate entity that uses the town's inhabitants---recently annihilated in an industrial accident and recreated as minuscule robots---to test hard sell marketing strategies.
 
 These stories are part of a science fiction subgenre, which emerged in the 1950s and 60s and addressed a growing and unregulated world of corporate marketing and research based in computer intensive systems analysis. This marketing research was rooted in an analysis of the values, choices and desires of increasingly large segments of population. Data gathered through polls, interviews and consumer sales was used to build massive simulations that would confidently predict the future.
 

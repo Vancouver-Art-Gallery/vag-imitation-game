@@ -43,7 +43,7 @@ AI is not just about processing information---it is also about sensing and colle
 {% endaccordion %}
 
 
-{% accordion ' ## Snapchat Lens' %}'
+{% accordion ' ## Snapchat Lens' %}
 
 Snapchat's popular Lens tool is a remarkable collection of AI driven features. Snapchat Lens allows users to modify their face, appearance, lighting, clothing, facial hair, props, even their voice. The process is simple, fast and easy to use. But the underlying artificial intelligences needed to identify facial and environmental features; track them accurately; modify and replace them seamlessly and play them back smoothly are quite sophisticated. Using the AI in Snapchat Lens, users can create animated effects that would have required the efforts of a professional animation studio just a few years ago.
 
@@ -52,8 +52,7 @@ Snapchat's popular Lens tool is a remarkable collection of AI driven features. S
 
 {% accordion ' ## RefaceAI' %}
 
-Deepfakes[^1] are an AI driven phenomena that have the potential to challenge a deeply held belief that "seeing is believing." The AI needed to create a deepfake is substantial---a face must be recognized; properly segmented and labelled; tracked while moving and talking; remapped to another face or body; appropriately lit, and transferred
-into the new, fake scene. But this "sophisticated" AI is available to everyday consumers as an amusement in free apps. One of the most popular, Reface, allows for animation of still photos, face swaps with existing video, and animation with popular music tracks.
+Deepfakes[^1] are an AI driven phenomena that have the potential to challenge a deeply held belief that "seeing is believing." The AI needed to create a deepfake is substantial---a face must be recognized; properly segmented and labelled; tracked while moving and talking; remapped to another face or body; appropriately lit, and transferred into the new, fake scene. But this "sophisticated" AI is available to everyday consumers as an amusement in free apps. One of the most popular, Reface, allows for animation of still photos, face swaps with existing video, and animation with popular music tracks.
 
 {% backmatter %}
 

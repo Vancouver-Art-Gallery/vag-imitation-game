@@ -16,13 +16,13 @@ Performance is a critical element of Chung's practice---where human and machine 
 
 {% accordion ' ## D.O.U.G.2 Dataset Sample' %}
 
-The artist collected and scanned samples of her previous drawings and sketches---100 are shown in the exhibition---to produce a memory bank for D.O.U.G.\_2. She has since continued to add drawings focusing on gesture and colour palette. Together, they constitute a collective memory that the robotic arm could draw on when creating these two works.
+The artist collected and scanned samples of her previous drawings and sketches---100 of which were shown in the exhibition---to produce a memory bank for D.O.U.G.\_2. She has since continued to add drawings focusing on gesture and colour palette. Together, they constitute a collective memory that the robotic arm could draw on when creating these two works.
 
 {% endaccordion %}
 
 {% accordion '## D.O.U.G.L.A.S.' %}
 
-The drawing robots on the centre platform collaborated with the artist in the production of the painting you see there. They are part of a "family" or "swarm" of robots that work collectively---with Chung and with each other---to produce gestures that reflect their interactions in a shared space. In part, the robots' movements are based on data gathered by surveillance cameras in public spaces. The data is extracted through algorithms that capture optical flow,[^1] which can be defined as the pattern of motion of objects in a visual scene---velocity, direction, density and dwell time. Two paintings from this series---*Dwell Study* (2018) and *Direction Study* (2018)---hang nearby.
+The drawing robots that were installed on the centre platform collaborated with the artist in the production of the painting you see there. They are part of a "family" or "swarm" of robots that work collectively---with Chung and with each other---to produce gestures that reflect their interactions in a shared space. In part, the robots' movements are based on data gathered by surveillance cameras in public spaces. The data is extracted through algorithms that capture optical flow,[^1] which can be defined as the pattern of motion of objects in a visual scene---velocity, direction, density and dwell time. Two paintings from this series---*Dwell Study* (2018) and *Direction Study* (2018)---were installed nearby.
 
 Optical flow is a critical field of study in computer vision and machine movement, and Chung's project emerged in part from the Experiments in Arts and Technology (E.A.T.) residency at the legendary Bell Labs. The E.A.T. collective first paired engineers from Bell Labs with artists in 1966, and this visionary partnership continues to support collaborative artistic projects that engage emergent technologies.
 

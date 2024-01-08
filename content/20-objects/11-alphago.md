@@ -17,7 +17,7 @@ However, what really confounded experts and Lee was the unorthodox Move 37 by Al
 
 {% accordion ' ## Play by Play' %}
 
-?
+View [*AlphaGo*](https://www.youtube.com/watch?v=WXuK6gekU1Y), an award-winning documentary released in 2017.
 
 {% endaccordion %}
 

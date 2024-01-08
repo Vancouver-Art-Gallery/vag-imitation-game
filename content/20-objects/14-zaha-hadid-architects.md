@@ -37,7 +37,7 @@ Luigi Moretti's designs for a stadium were exhibited in the *Parametric Architec
 
 {% endaccordion %}
 
-{% accordion ' ## Frank Gehrt, Toyo Ito and Rem Koolhaas' %}
+{% accordion ' ## Frank Gehry, Toyo Ito and Rem Koolhaas' %}
 
 Frank Gehry's fascination with materials and flowing surfaces requires an intensive computational process to transform his simple models in cardboard or wood into fluid and gleaming architectural forms like the Walt Disney Concert Hall. Gehry's studio played a key role in customizing the CATIA 3D modelling software used in the aerospace industry for architectural applications.
 
