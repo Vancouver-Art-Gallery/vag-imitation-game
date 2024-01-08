@@ -15,14 +15,6 @@ Wiener recognized the value of sharing new ideas with a broad public and played 
 
 <br>
 
-{% backmatter %}
-
-[^1]: Norbert Wiener introduced the term 'cybernetics' in 1948 and described it as 'the science of control and communications in the animal and machine.'
-
-{% endbackmatter %}
-
-<br>
-
 {% accordion ' ## The Moth' %}
 
 In the late 1940s, Norbert Wiener, then a professor at MIT, teamed up with J. Wiesner (from the MIT Research Laboratory of Electronics) and a fabricator named H. Singleton to build a demonstration machine.
@@ -77,3 +69,10 @@ Roomba and similar autonomous robotic vacuum cleaners have attracted a large com
 
 {% endaccordion %}
 
+<br>
+
+{% backmatter %}
+
+[^1]: Norbert Wiener introduced the term 'cybernetics' in 1948 and described it as 'the science of control and communications in the animal and machine.'
+
+{% endbackmatter %}

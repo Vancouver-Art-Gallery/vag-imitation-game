@@ -10,7 +10,7 @@ Published in conjunction with the exhibition *The Imitation Game: Visual Culture
 
 Editor: Stephanie Rebick
 Copyeditor and production coordinator: Natalia Camacho Henao 
-Photography and Digital Image Preparation: 
+Photography and Digital Image Preparation: Ian Lefebvre and Jessica Jacobsen, Vancouver Art Gallery
 
 <br/>
 
