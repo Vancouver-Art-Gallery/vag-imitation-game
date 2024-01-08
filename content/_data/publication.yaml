@@ -43,7 +43,7 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears: Glenn Entis and Bruce Grenville
+contributor_as_it_appears: Bruce Grenville and Glenn Entis
 
 contributor:
   - id: bgrenville
@@ -52,7 +52,7 @@ contributor:
     last_name: Grenville
     title: Senior Curator
     affiliation: Vancouver Art Gallery
-    bio: "Bruce Grenville was the Senior Curator at the Vancouver Art Gallery from 1997 to 2022. During that time he organized many thematic group exhibitions including *The Imitation Game: Visual Culture in the Age of Artificial Intelligence* (2022);  *Cabin Fever* (2018), an historical survey of the cabin typology in North American architecture and visual culture; *MashUp: The Birth of Modern Culture* (2016), an exhibition and publication focused on the history of mashup culture from 1912 to the present; *Massive Change: The Future of Global Design* (2004), a survey of contemporary design, conceived and presented in collaboration with Bruce Mau Design and the Institute Without Boundaries; and *Home and Away: Crossing Cultures on the Pacific Rim* (2003), a look at the work of six artists who share a history of emigration and diaspora on the Pacific Rim. He also organized numerous solo exhibitions for artists including Carol Sawyer, Janet Cardiff and George Bures Miller, Michael Lin, Fiona Tan, Stan Douglas, Franz West, Wang Du, Gathie Falk, Dominique Blain, Komar and Melamid, Arnaud Maggs, Christos Dikeakos, Ruth Cuthand, Mary Scott and Jack Goldstein."
+    bio: "Bruce Grenville was Senior Curator at the Vancouver Art Gallery from 1997 to 2022. During that time he organized many thematic group exhibitions including *The Imitation Game: Visual Culture in the Age of Artificial Intelligence* (2022);  *Cabin Fever* (2018), an historical survey of the cabin typology in North American architecture and visual culture; *MashUp: The Birth of Modern Culture* (2016), an exhibition and publication focused on the history of mashup culture from 1912 to the present; *Massive Change: The Future of Global Design* (2004), a survey of contemporary design, conceived and presented in collaboration with Bruce Mau Design and the Institute Without Boundaries; and *Home and Away: Crossing Cultures on the Pacific Rim* (2003), a look at the work of six artists who share a history of emigration and diaspora on the Pacific Rim. He also organized numerous solo exhibitions for artists including Carol Sawyer, Janet Cardiff and George Bures Miller, Michael Lin, Fiona Tan, Stan Douglas, Franz West, Wang Du, Gathie Falk, Dominique Blain, Komar and Melamid, Arnaud Maggs, Christos Dikeakos, Ruth Cuthand, Mary Scott and Jack Goldstein."
 
   - id: gentis
     type: primary

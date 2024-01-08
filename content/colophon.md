@@ -8,9 +8,8 @@ layout: page
 Published in conjunction with the exhibition *The Imitation Game: Visual Culture in the Age of Artificial Intelligence*, organized by the Vancouver Art Gallery, curated by Bruce Grenville, Senior Curator, and Glenn Entis, Guest Curator, and presented from March 5 to October 23, 2022.
 <br/>
 
-Editor: 
-Copyeditor and production coordinator: 
-Design: 
+Editor: Stephanie Rebick
+Copyeditor and production coordinator: Natalia Camacho Henao 
 Photography and Digital Image Preparation: 
 
 <br/>
@@ -18,7 +17,7 @@ Photography and Digital Image Preparation:
 
 This publication was created using Quire<sup>TM</sup>, a multiplatform publishing tool created by the J. Paul Getty Trust
 
-© 2023 Vancouver Art Gallery
+© 2024 Vancouver Art Gallery
 
 ISBN 978-1-927656-55-6
 
@@ -32,6 +31,8 @@ All rights reserved. No part of this book may be reproduced, stored in a retriev
 
 Visionary Partner for Scholarship and Publications:
 The Richardson Family
+
+The Jack and Doris Shadbolt Publication Endowment
 
 **Exhibition Support:**
 
@@ -55,7 +56,7 @@ The Vancouver Art Gallery is a not-for-profit organization supported by its memb
 
 <br/>
 
-![Vancouver Art Gallery Logo](/_assets/images/vaglogo-colour.jpg)
+![Vancouver Art Gallery Logo](/_assets/images/VAGlogoBLACK.jpg)
 
 Vancouver Art Gallery
 750 Hornby Street, Vancouver, BC, V6Z 2H7
