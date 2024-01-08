@@ -13,6 +13,16 @@ Norbert Wiener was an American mathematician and philosopher who joined the facu
 
 Wiener recognized the value of sharing new ideas with a broad public and played the role of showman well. His "Moth" has a place in a long history of mechanical animals that were used to describe advances in technology and design. In order to build this public representation of "cybernetics," Wiener started from the proposition that all systems---organic, mechanical, social or aesthetic---are defined by their ability to acquire, use, retain and transmit information.
 
+<br>
+
+{% backmatter %}
+
+[^1]: Norbert Wiener introduced the term 'cybernetics' in 1948 and described it as 'the science of control and communications in the animal and machine.'
+
+{% endbackmatter %}
+
+<br>
+
 {% accordion ' ## The Moth' %}
 
 In the late 1940s, Norbert Wiener, then a professor at MIT, teamed up with J. Wiesner (from the MIT Research Laboratory of Electronics) and a fabricator named H. Singleton to build a demonstration machine.
@@ -67,11 +77,3 @@ Roomba and similar autonomous robotic vacuum cleaners have attracted a large com
 
 {% endaccordion %}
 
-
-<br>
-
-{% backmatter %}
-
-[^1]: Norbert Wiener introduced the term 'cybernetics' in 1948 and described it as 'the science of control and communications in the animal and machine.'
-
-{% endbackmatter %}

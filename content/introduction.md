@@ -22,10 +22,12 @@ This exhibition was organized by the Vancouver Art Gallery and curated by Bruce 
 
 {% figure 'interactiveintro' %}
 
-This interactive introduction invited visitors to explore the range of images, objects and ideas that shaped the exhibition. Visitors may be familiar with the use of artificial intelligence (AI) in their encounters with the preference engines[^3] that select their online music, videos or shopping, but the use of AI as an essential tool in a wide range of creative processes is often invisible.
+The interactive introduction invited visitors to explore the range of images, objects and ideas that shaped the exhibition. Visitors may be familiar with the use of artificial intelligence (AI) in their encounters with the preference engines[^3] that select their online music, videos or shopping, but the use of AI as an essential tool in a wide range of creative processes is often invisible.
 
 The interactive installation employed a basic form of AI that combines computer vision, machine learning and neural networks that analyze hand gestures in real time and trigger an appropriate response to visitors' interactions. The images and information on this wall were addressed in greater depth throughout the exhibition.
 
+<br/>
+<br/>
 
 {% backmatter %}
 
@@ -42,6 +44,7 @@ Cindy Shi contributed post-production programming support.
 
 The Centre for Digital Media was founded in 2007 and is a unique graduate program whose degree is imprinted with the seals of its four partner institutions: University of British Columbia, Emily Carr University of Art + Design, Simon Fraser University and British Columbia Institute of Technology.
 
+<br/>
 
 ## Notes
 
